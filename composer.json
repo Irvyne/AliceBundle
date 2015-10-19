@@ -18,7 +18,7 @@
     "require": {
         "php": ">=5.4.0",
         "nelmio/alice": "~2.1",
-        "symfony/finder": "^2.7"
+        "symfony/finder": ">=2.7"
     },
     "require-dev": {
         "doctrine/doctrine-bundle": "~1.2",
